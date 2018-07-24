@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7829181-8bce-45c2-9aa1-8b8e038deb11" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="d7829181-8bce-45c2-9aa1-8b8e038deb11" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +27,9 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor>
+                <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -282,12 +282,12 @@
       <workItem from="1532378188071" duration="4364000" />
       <workItem from="1532387992071" duration="1106000" />
       <workItem from="1532423763848" duration="1311000" />
-      <workItem from="1532427459882" duration="644000" />
+      <workItem from="1532427459882" duration="1153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7425000" />
+    <option name="totallyTimeSpent" value="7934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
@@ -411,7 +411,9 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor>
+            <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
